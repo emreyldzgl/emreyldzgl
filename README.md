@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre YILDIZOĞLU</h1>
-<h3 align="center">A passionate Jr.Data Scientist</h3>
+<h3 align="center">Jr.Data Scientist / Industrial Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
